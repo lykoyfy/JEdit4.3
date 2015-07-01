@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jars/QuickNotepad/|jars/LatestVersion/|jars/MacOSX/" kind="src" path=""/>
+	<classpathentry kind="src" path="jars/LatestVersion"/>
+	<classpathentry kind="src" path="jars/MacOSX"/>
+	<classpathentry kind="src" path="jars/QuickNotepad"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/ant.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Java/jdk1.7.0_45/lib/tools.jar"/>
+	<classpathentry kind="lib" path="jars/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
