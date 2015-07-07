@@ -69,6 +69,7 @@ public class DelayedEvalBshMethod extends BshMethod
 		super( name, null/*returnType*/, paramNames, null/*paramTypes*/,
 			methodBody, declaringNameSpace, modifiers );
 
+		int changeToTest = 9;
 		this.returnTypeDescriptor = returnTypeDescriptor;
 		this.returnTypeNode = returnTypeNode;
 		this.paramTypeDescriptors = paramTypeDescriptors;
